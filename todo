@@ -1,8 +1,0 @@
-- Verification code:
-    - create component for verification code box. @done
-        - add heading and description in it. @done
-    - create component for code inputs. @done
-    - create component for button. @done
-    - add functionality
-        - user should only enter one digit in one input box.
-        - if user tries to enter more than one digit in input box then another digit should automatically move to next input box.
